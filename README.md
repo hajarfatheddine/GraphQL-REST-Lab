@@ -7,9 +7,9 @@ The architecture of this microservice is as follows:
 
 ![image](https://user-images.githubusercontent.com/84817425/211089841-f6644b98-7501-4158-9dc8-9d9259b277c1.png)
 
-### II- Application Structure:
+### II- Application Structure :
 
-The app is organized in packages:
+The app is organized in packages :
 ```
 com.microservice1.microservice1 
 │
@@ -58,7 +58,7 @@ The controllers that we have are:
 
 > Note: The difference between GraphQL & REST is that REST retrieves and returns ALL DATA, on the other hand, GraphQL returns the data wanted & specified in the file **`schema.graphqls`**.
 
-### III- GraphQL:
+### III- GraphQL :
 
 1. First and for most, we need to add the following dependency in **`pom.xml`** file:
 ```xml
@@ -84,7 +84,7 @@ type Mutation{
 }
 ```
 ---
-### Testing the microservice functionalities:
+### Testing the microservice functionalities :
 
 #### Using Postman :
 
@@ -96,7 +96,7 @@ type Mutation{
 
 ![image](https://user-images.githubusercontent.com/84817425/211102367-151ee1f4-8d8d-4eff-a042-ccf26c3c6876.png)
 
-#### Using GraphQl:
+#### Using GraphQL :
 
 To be able to execute the graphQL queries we must open the following URL:
 
