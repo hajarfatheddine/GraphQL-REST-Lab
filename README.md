@@ -5,7 +5,7 @@ This microservice allows the management of bank accounts.
 
 The architecture of this microservice is as follows:
 
-![image](https://user-images.githubusercontent.com/84817425/211089841-f6644b98-7501-4158-9dc8-9d9259b277c1.png)
+![image](https://github.com/hajarfatheddine/GraphQL-REST-Lab/assets/84817425/601c07bc-42f2-4d02-b806-8eeaeb7b90cf)
 
 ### II- Application Structure :
 
